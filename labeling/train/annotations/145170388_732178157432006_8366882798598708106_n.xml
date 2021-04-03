@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>145170388_732178157432006_8366882798598708106_n.jpg</filename>
+	<path>E:\Users\angel\Desktop\labeling\train\images\145170388_732178157432006_8366882798598708106_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>203</ymin>
+			<xmax>296</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>
